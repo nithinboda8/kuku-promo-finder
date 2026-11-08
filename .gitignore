@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# the screenplay pack is Kuku's confidential content - never commit it
+pack/
+*.zip
